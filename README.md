@@ -69,7 +69,7 @@ For each test case, print the postorder traversal sequence of the corresponding 
 # 题目三 AVL树的插入
 An AVL tree is a self-balancing binary search tree. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Figures 1-4 illustrate the rotation rules.
 
-![二叉树](.README_images/0a10c6c4.png)
+![二叉树](.ReadME_images/0a10c6c4.png)
 Now given a sequence of insertions, you are supposed to tell the root of the resulting AVL tree.
 
 ## Input Specification:
@@ -112,10 +112,10 @@ Now given a sequence of distinct non-negative integer keys, a unique BST can be 
 ## Input Specification:
 Each input file contains one test case. For each case, the first line contains a positive integer N (≤1000). Then N distinct non-negative integer keys are given in the next line. All the numbers in a line are separated by a space and are no greater than 2000.
 
-##Output Specification:
+## Output Specification:
 For each test case, print in one line the level order traversal sequence of the corresponding complete binary search tree. All the numbers in a line must be separated by a space, and there must be no extra space at the end of the line.
 
-##Sample Input:
+## Sample Input:
     10
     1 2 3 4 5 6 7 8 9 0
  
